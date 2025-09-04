@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Plugins\RichardAnderson\VitoOctanePlugin;
+namespace App\Vito\Plugins\RichardAnderson\VitoOctanePlugin;
 
-use App\LegacyPlugins\RegisterSiteFeature;
-use App\LegacyPlugins\RegisterSiteFeatureAction;
-use App\Vito\AbstractPlugin;
+use App\Plugins\RegisterSiteFeature;
+use App\Plugins\RegisterSiteFeatureAction;
+use App\Plugins\AbstractPlugin;
 
 class Plugin extends AbstractPlugin
 {
