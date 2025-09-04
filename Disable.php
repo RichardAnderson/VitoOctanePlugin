@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Plugins\RichardAnderson\VitoOctanePlugin;
+namespace App\Vito\Plugins\RichardAnderson\VitoOctanePlugin;
 
 use App\Actions\Worker\DeleteWorker;
 use App\DTOs\DynamicField;
